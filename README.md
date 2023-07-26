@@ -19,7 +19,7 @@ TADS é o meu primeiro curso, sempre fui muito curiosa e essa área desafiadora 
 ### Contato
 
 * [Linkedin](https://www.linkedin.com/in/karolinewessler/)
-* E-mail: karoline.wessler@gmail.com
+* Karoline.wessler@gmail.com
   
 ---
 
