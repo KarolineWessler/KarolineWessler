@@ -23,4 +23,4 @@ TADS é o meu primeiro curso, sempre fui muito curiosa e essa área desafiadora 
   
 ---
 
-## ☀️Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedora
+
