@@ -1,26 +1,18 @@
-# Sobre mim
-
-Oie, me chamo Karoline Wessler e sou Desenvolvedora JAVA. Formada em Análise e Desenvolvimento de Sistemas, apaixonada pela parte estética e experiência do usuário, criativa, e sempre em busca de novas soluções para problemas.
-
-TADS é o meu primeiro curso, sempre fui muito curiosa e essa área desafiadora foi a escolha certa. No meu tempo livre amo ler, pintar utilizando aquarela e registrar momentos especiais junto das pessoas que amo.
+# Karoline Wessler 
+**Desenvolvedora Web**  
+Oie! Sou a Karol, formada em Análise e Desenvolvimento de Sistemas, apaixonada por frontend, organização, UX e soluções criativas
 
 ---
 
-### Habilidades e Tecnologias
+## 🛠 Tecnologias
 
-* Desenvolvimento web (HTML, CSS e JavaScript)
-* Java
-* Banco de dados PostgreSQL/MySQL
-* Atualmente aprendendo React para projetos no trabalho
-* Explorando Flutter e Vue
+**Frontend:** Vue 3, Composition API, TypeScript, JavaScript, Figma  
+**Backend:** Java, Spring Boot, APIs RESTful  
+**Database:** PostgreSQL, Elasticsearch, Kibana  
 
 ---
 
-### Contato
+## 📫 Contato
 
-* [Linkedin](https://www.linkedin.com/in/karolinewessler/)
-* Karoline.wessler@gmail.com
-  
----
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2)](https://www.linkedin.com/in/karolinewessler/)
+**Email:** Karoline.wessler@gmail.com
