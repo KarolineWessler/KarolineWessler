@@ -1,6 +1,6 @@
-# Karoline Wessler 
-**Desenvolvedora Web**  
-Oie! Sou a Karol, formada em Análise e Desenvolvimento de Sistemas, apaixonada por frontend, organização, UX e soluções criativas
+## Sobre mim
+
+Oie! Me chamo Karoline Wessler e sou Desenvolvedora Web. Formada em Análise e Desenvolvimento de Sistemas, apaixonada por frontend, organização, UX e soluções criativas
 
 ---
 
@@ -14,5 +14,5 @@ Oie! Sou a Karol, formada em Análise e Desenvolvimento de Sistemas, apaixonada 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2)](https://www.linkedin.com/in/karolinewessler/)
-**Email:** Karoline.wessler@gmail.com
+* [Linkedin](https://www.linkedin.com/in/karolinewessler/)
+* Karoline.wessler@gmail.com
